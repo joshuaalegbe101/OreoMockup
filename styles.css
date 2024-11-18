@@ -26,14 +26,11 @@ li{
 }
 
 #custom{
+    display:flex;
     border-radius:10%;
     padding:0;
     height:80%;
     background-image:linear-gradient(pink)
-}
-
-.items li{
-    border:none;
 }
 
 p{
